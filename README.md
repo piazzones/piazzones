@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @piazzones
-- 👀 I'm a former/ currently architect, trying to make a 180º turn in my career
-- 🌱 I’m currently learning the front-end basics: HTML, CSS and JavaScript. 
+- 👋 Hi, I’m @piazzones;
+- 👀 I'm a former/ currently architect, trying to make a 180º turn in my career;
+- 🌱 Learning the front-end basics(HTML, CSS, Javascript) and programming logic;
 - 📫 You can reach me @angelopiazzon on instagram or @angelo-tridapalli on linkedin. 
 
 <!---
