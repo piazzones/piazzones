@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @piazzones;
-- 👀 I'm a former/ currently architect, trying to make a 180º turn in my career;
+- 👀 I'm a former/ currently architect, making a 180º turn in my career;
 - 🌱 Learning the front-end basics(HTML, CSS, Javascript) and programming logic, with some C and Python on the mix;
 - 📫 You can reach me @angelopiazzon on instagram or @angelo-tridapalli on linkedin. 
 
