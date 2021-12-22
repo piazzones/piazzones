@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @piazzones;
 - 👀 I'm a former/ currently architect, making a 180º turn in my career;
-- 🌱 Learning the front-end basics(HTML, CSS, Javascript) and programming logic, with some C and Python on the mix;
+- 🌱 Learning the 'full stack' basics: { Html | Css | Javascript | Nodejs | ReactJS | Python | Django | SQL }
 - 📫 You can reach me @angelopiazzon on instagram or @angelo-tridapalli on linkedin. 
 
 <!---
